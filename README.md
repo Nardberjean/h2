@@ -10,5 +10,9 @@
     * deb-src:[python-hpack](https://tracker.debian.org/pkg/python-hpack)
     * deb-src:[python-hyperframe](https://tracker.debian.org/pkg/python-hyperframe)
 
+## Documentation
+* [*Network protocols, sans I/O*](http://sans-io.readthedocs.io/)
+* [*The New Hyper*](https://lukasa.co.uk/2015/10/The_New_Hyper/)
+
 ## Unrelated
 * deb-src:[nghttp2](https://tracker.debian.org/pkg/nghttp2)
